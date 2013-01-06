@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDE specific #
+.classpath
+.settings
+
+
+#FRC Specific
+/j2meclasses
+/suite
+/bin
+/image.suite
+/image.sym
+/build
+
+
+#I definetly want these files checked in#
+!/resources
+!build.xml
+!build.properties
